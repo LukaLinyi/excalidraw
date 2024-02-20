@@ -112,6 +112,9 @@ export const FONT_FAMILY = {
   Helvetica: 2,
   Cascadia: 3,
   Assistant: 4,
+  hanchanshouzhuo: 5,
+  yunfenthanchan: 6,
+  shoushuti: 7
 };
 
 export const THEME = {

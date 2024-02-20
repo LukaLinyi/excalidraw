@@ -36,3 +36,19 @@
   font-display: swap;
   font-weight: 700;
 }
+
+@font-face {
+  font-family: "hanchanshouzhuo";
+  src: url("hanchanshouzhuo.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: "yunfenthanchan";
+  src: url("yunfenthanchan.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: "shoushuti";
+  src: url("shoushuti.ttf");
+  font-display: swap;
+}

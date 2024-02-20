@@ -752,9 +752,27 @@ export const actionChangeFontFamily = register({
         testId: "font-family-normal",
       },
       {
+        value: FONT_FAMILY.hanchanshouzhuo,
+        text: t("labels.code"),
+        icon: FontFamilyNormalIcon,
+        testId: "font-family-code",
+      },
+      {
+        value: FONT_FAMILY.yunfenthanchan,
+        text: t("labels.code"),
+        icon: FontFamilyNormalIcon,
+        testId: "font-family-code",
+      },
+      {
+        value: FONT_FAMILY.shoushuti,
+        text: t("labels.code"),
+        icon: FontFamilyNormalIcon,
+        testId: "font-family-code",
+      },
+      {
         value: FONT_FAMILY.Cascadia,
         text: t("labels.code"),
-        icon: FontFamilyCodeIcon,
+        icon: FontFamilyNormalIcon,
         testId: "font-family-code",
       },
     ];
